@@ -1,12 +1,12 @@
  
-* Le Morpion *
+  # Le Morpion 
 
-  # Description du Jeu 
+### Description du Jeu 
 
 Le jeu se présente sous forme d'un Tableau, numéroté de 1 à 9 . 
 C'est un jeu , joueur contre joueur . Si le joueur "X" ou "O" aligne 3 jetons, il gagne.
 
-  # Description de l’implémentation technique du jeu
+### Description de l’implémentation technique du jeu
 
 - Initialisation du tableau de jeu
 - Le joueur sélectionne la case qu'il veut jouer
@@ -15,7 +15,7 @@ C'est un jeu , joueur contre joueur . Si le joueur "X" ou "O" aligne 3 jetons, i
 - Quand un des deux joueurs a aligné 3 jetons. Il gagne!
 - Si aucun joueur n'a aligné 3 jetons, la partie est nulle
 
-  # Notice D'utilisation
+### Notice D'utilisation
 
 Le joueur X commence la partie.
 Devant lui se présente un tableau numéroté de 1 à 9.
